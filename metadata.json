@@ -1,0 +1,7 @@
+{
+  "name": "MayaAkashic Starseed Portal",
+  "description": "A mystical astrology application combining Maya cosmology, 7 Esoteric Rays, and Starseed origins for deep spiritual self-discovery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
